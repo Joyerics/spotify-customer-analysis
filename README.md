@@ -51,17 +51,9 @@ This project focuses on analyzing user behavior data from a Spotify-like dataset
 ![Churn Distribution](screenshots/churn_distribution.png)
 This chart highlights the proportion of churned versus retained users, clearly illustrating the business impact of customer churn.
 
-### User Engagement vs Churn
-![Engagement vs Churn](screenshots/engagement_vs_churn.png)
-Lower engagement levels are strongly associated with higher churn probability, indicating that user activity is a critical retention driver.
-
 ### Feature Correlation Analysis
 ![Correlation Heatmap](screenshots/correlation_heatmap.png)
 The correlation heatmap reveals key relationships between numerical features and churn, guiding feature selection for predictive modeling.
-
-### Model Performance
-![Model Performance](screenshots/model_performance.png)
-This visualization demonstrates the effectiveness of the machine learning model in identifying churned users on unseen data.
 
 
 ## 📊 Key Insights
